@@ -1,0 +1,30 @@
+_repo: The-Romantic-Story-of-the-Mayflower-PilgrimsAnd-Its-Place-in-the-Life-of-To-day_36756
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Addison, A. C. (Albert Christopher)
+    aliases:
+    - Addison, Albert Christopher
+    - Addison, A. Christopher (Albert Christopher)
+    gutenberg_agent_id: '38455'
+    url: http://www.gutenberg.org/2009/agents/38455
+description: ''
+gutenberg_issued: '2011-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36756'
+  lccn: '11026979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayflower (Ship)'
+- !lcc 'F001'
+- !lcsh 'Pilgrims (New Plymouth Colony)'
+title: The Romantic Story of the Mayflower Pilgrims, and Its Place in the Life of
+  To-day
+url: http://www.gutenberg.org/ebooks/36756
